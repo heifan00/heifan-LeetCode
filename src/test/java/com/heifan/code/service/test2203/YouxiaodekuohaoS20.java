@@ -1,5 +1,6 @@
-package com.heifan.code.service;
+package com.heifan.code.service.test2203;
 
+import com.heifan.code.service.LeetCodeApplicationTest;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.jupiter.api.Test;
 
